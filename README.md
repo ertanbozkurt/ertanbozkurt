@@ -3,22 +3,12 @@
 <h1 align="center">Hi 👋, I'm Ertan</h1>
 <h5 align="center">Java | Apex | C# | Javascript | Typescript | Full-Stack Automation Testing with Selenium or Cypress | Front-End Development with React.js | Salesforce Development with LWC</h5>
 
-<!-- profile view count. replace username with yours-->
-<p align="left"> 
-	<img src="" alt="ertanbozkurt" /> 
-</p>
-
-<!-- trophies. replace username with yours-->
-<p align="left"> 
-	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github.com/ertanbozkurt/ertanbozkurt)" alt="ertanbozkurt" />
-	</a> 
 </p>
 
 <!--  Contact me links. replace href with your linkedin link. -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://www.linkedin.com/in/ertan-bozkurt-391bb91ba/]" target="blank">
+<a href="https://www.linkedin.com/in/ertan-bozkurt-391bb91ba/" target="blank">
 	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ertanbozkurt" height="30" width="40" />
 </a>
 </p>
