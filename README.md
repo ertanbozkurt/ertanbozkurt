@@ -70,15 +70,4 @@
 
 <!-- top languages that is used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abayramus&show_icons=true&locale=en&layout=compact" alt="abayramus" />
-</p>
 
-<!--  github stats  -->
-<p>&nbsp;
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=abayramus&show_icons=true&locale=en" alt="abayramus" />
-</p>
-
-<!-- streak stats  -->
-<p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abayramus&" alt="abayramus" />
-</p>
