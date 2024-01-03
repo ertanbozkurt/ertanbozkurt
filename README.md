@@ -1,7 +1,7 @@
 
 <!-- Information using h1 tag -->
 <h1 align="center">Hi 👋, I'm Ertan</h1>
-<h5 align="center">Full Stack Java Developer</h5>
+<h1 align="center">Full Stack Java Developer</h1>
 
 </p>
 
