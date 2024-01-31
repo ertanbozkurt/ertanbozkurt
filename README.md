@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ertan</h1>
 <h3 align="center">Full Stack Java Developer</h3>
 
-</p>
 
 
 <h5 align="center">Connect with me:</h5>
